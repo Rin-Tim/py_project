@@ -1,3 +1,3 @@
-from funcs import func
+from funcs import func_two
 
-func()
+func_two()
